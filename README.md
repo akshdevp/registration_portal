@@ -11,11 +11,17 @@ next do npm -g gulp bower
  create a folder front-end
  
  in the folder front-end do
+ 
  -> yo gulp-angular my-message-front
+ 
  and there will be some questions answer that one
  
  and again in that folder do
+ 
 -> gulp 
+
 and next do
+
 ->gulp serve 
+
 a web page will be displayed
