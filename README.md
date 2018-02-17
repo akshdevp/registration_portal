@@ -26,7 +26,7 @@ and next do
 
 a web page will be displayed
 
-//Make a Angular post form in main.html
+//Make a Angular post form in main.html//
 
 <div class="container">
 
@@ -44,9 +44,9 @@ a web page will be displayed
         
       </div>
       
-    </div>
+      </div>
     
-  </div>
+    </div>
   
   <div class="panel panel-default">
   
