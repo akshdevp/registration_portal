@@ -25,3 +25,24 @@ and next do
 ->gulp serve 
 
 a web page will be displayed
+
+//Make a Angular post form in main.html
+
+<div class="container"
+
+<div>
+
+<acme navbar creation date="main.creationDate"></acme navbar>
+
+</div>
+
+<div class="panel panel-default">
+
+
+
+
+
+
+
+
+
